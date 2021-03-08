@@ -13,7 +13,7 @@ This is a CMS to enable management of a company's Employees, Roles, and Departme
 
 ## Installation
 
-Download and install [Node.js LTS](https://nodejs.org/en/download/) if not already installed<br/><br/>Fork this [repo](https://github.com/CHANCEEWELL/employee-manage) and then clone<br/>`git clone git@github.com:EnterYourGitHubUserName/Tuck-Employee-Tracker.git && cd Tuck-Employee-Tracker`<br/><br/>Install dependencies<br/>`npm i`<br/><br/>Run the application<br/>`node index.js`
+Download and install [Node.js LTS](https://nodejs.org/en/download/) 
 
 ## Usage
 
